@@ -1,0 +1,38 @@
+.qr-code-image{
+    border-radius: 8px;
+}
+
+.qr-card{
+    font-family:consolas;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    padding: 12px;
+    background-color: #ffffff;
+    border-radius: 8px;
+}
+.root-page{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #ededed;
+}
+
+.title{
+    font-size:16px;
+    font-weight: 700;
+    padding: 10px 0px 10px 0px;
+    text-align: center;
+}
+
+.sub-title{
+    color: grey;
+    font-size:12px;
+    padding: 12px 0px 16px 0px;
+    text-align: center;
+}
